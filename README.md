@@ -4,3 +4,9 @@
 
 ### 1. Dataset 
 We use two main datasets, namely MNIST and CIFAR-10.
+
+|              	|         Number of samples 	            |
+|--------------	|:-----------------:	|:----------------:	|
+|              	|   MNIST Dataset   	| CIFAR-10 Dataset 	|
+| Training set 	|       60000       	|       50000      	|
+| Test set     	|       10000       	|       10000      	|
