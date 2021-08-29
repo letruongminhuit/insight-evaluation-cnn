@@ -5,9 +5,11 @@
 ### 1. Dataset 
 We use two main datasets, namely MNIST and CIFAR-10 with the partitions divided as below:
 
+
 |              	|   MNIST Dataset   	| CIFAR-10 Dataset 	|
 | Training set 	|       60000       	|       50000      	|
 | Test set     	|       10000       	|       10000      	|
+
 
 ### 2. Structures
 
