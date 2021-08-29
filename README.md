@@ -6,9 +6,7 @@
 We use two main datasets, namely MNIST and CIFAR-10 with the partitions divided as below:
 
 
-|              	|   MNIST Dataset   	| CIFAR-10 Dataset 	|
-| Training set 	|       60000       	|       50000      	|
-| Test set     	|       10000       	|       10000      	|
+![image](https://user-images.githubusercontent.com/41055526/131259997-a1450bd1-db64-4c78-9797-5debc9071f6e.png)
 
 
 ### 2. Structures
