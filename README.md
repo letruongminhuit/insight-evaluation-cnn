@@ -11,7 +11,7 @@ We use two main datasets, namely MNIST and CIFAR-10 with the partitions divided 
 
 ### 2. Structures
 
-**Folder: Traditional Filters
+**Folder: Traditional Filters**
 
 In this folder, we store the code for 14 traditional filters used to extract features from two mentioned datasets: 
 1. Prewitt (with X-axis and Y-axis)
@@ -29,14 +29,14 @@ In this folder, we store the code for 14 traditional filters used to extract fea
 13. Extended Center-Symmetric Local Ternary Pattern
 14. Generalized Local Ternary Pattern 
 
-**Folder: CNN Approach
+**Folder: CNN Approach**
 
 In this folder, we conducted two practical experiments and store the results evaluated on the test set: 
 
 * Experiment 1: Apply a basic CNN network (14 Conv2D Filters, MaxPooling, Flatten and two FC layers).
 * Experiment 2: Apply a basic CNN network as above with additional layers (BatchNormalization and Dropout).
 
-**Files
+**Files**
 
 * CIFAR - Traditional Filters.ipynb: Store the code for applying traditional filters on CIFAR-10 dataset and create a model prepared for test phase. 
 * MNIST-Traditional Filters.ipynb: Store the code for applying traditional filters on MNIST dataset and create a model prepared for test phase.
