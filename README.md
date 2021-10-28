@@ -47,10 +47,6 @@ In this folder, we conducted two practical experiments and store the results eva
 
 ##### Traditional Filters
 
-In general, to effectively extract spatial information from the image, we use the traditional filters as defined in the table below: 
-
-![Traditional Filtters in Paper](https://user-images.githubusercontent.com/41055526/139260658-159cff50-e6cd-42bc-abc9-3c854f601ed1.png)
-
 **MNIST Dataset**
 Here is the general process how we build model which is combined betwwen diverse traditional filters and start performing ten-class classification task on MNIST dataset:
 
@@ -71,4 +67,7 @@ Here is the general process how we build model which uses CNN Filters to perform
 ### 4. Final results
 
 ![image](https://user-images.githubusercontent.com/41055526/131260049-cd70f703-08f0-4bce-afb9-88fff01b18eb.png)
+
+--
+For further analysis, please refer to the extended version of our paper in the folder `extended-paper`. 
 
