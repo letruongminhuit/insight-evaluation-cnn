@@ -68,5 +68,5 @@ Here is the general process how we build model which uses CNN Filters to perform
 
 ![image](https://user-images.githubusercontent.com/41055526/131260049-cd70f703-08f0-4bce-afb9-88fff01b18eb.png)
 
-## For further analysis, please refer to the extended version of our paper in the folder `extended-paper`. 
+## For further analysis, please refer to the extended version of our paper in the folder [extended-paper](https://github.com/letruongminhuit/insight-evaluation-cnn/tree/master/extended-paper). 
 
